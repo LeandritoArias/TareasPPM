@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686922079 source:c:\users\leand\onedrive\desktop\class stuff\programacion c\ejemplo 8.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
