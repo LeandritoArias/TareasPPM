@@ -1,0 +1,3 @@
+C:\Users\leand\source\repos\LiteDB1\LiteDB1\obj\Debug\LiteDB1.csproj.AssemblyReference.cache
+C:\Users\leand\source\repos\LiteDB1\LiteDB1\obj\Debug\LiteDB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\leand\source\repos\LiteDB1\LiteDB1\obj\Debug\LiteDB1.csproj.CoreCompileInputs.cache
